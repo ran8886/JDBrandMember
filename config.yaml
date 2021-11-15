@@ -3,7 +3,7 @@ cookies:
   - pt_key=123465abc;pt_pin=jd_123987
 
 # 线程数量: 注意！不要超过 8 线程，否则可能会被京东临时禁止访问
-thread: 4
+thread: 6
 
 # 间隔时间，默认为0
 sleep-time: 0
